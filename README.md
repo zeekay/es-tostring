@@ -1,29 +1,30 @@
-# tostr
+# es-tostring
 
 [![npm][npm-img]][npm-url]
-<!-- [![build][build-img]][build-url] -->
-<!-- [![dependencies][dependencies-img]][dependencies-url] -->
 [![downloads][downloads-img]][downloads-url]
 [![license][license-img]][license-url]
 [![chat][chat-img]][chat-url]
 
-Shorthand for Object.prototype.toString.call(obj). ES Module
+<!-- [![build][build-img]][build-url] -->
+<!-- [![dependencies][dependencies-img]][dependencies-url] -->
+
+Shorthand for `Object.prototype.toString.call(obj)`. ES Module
 friendly. No dependencies.
 
 ## License
 [MIT][license-url]
 
-[build-img]:        https://img.shields.io/travis/zeekay/tostr.svg
-[build-url]:        https://travis-ci.org/zeekay/tostr
+[build-img]:        https://img.shields.io/travis/zeekay/es-tostring.svg
+[build-url]:        https://travis-ci.org/zeekay/es-tostring
 [chat-img]:         https://badges.gitter.im/join-chat.svg
 [chat-url]:         https://gitter.im/zeekay/hi
-[coverage-img]:     https://coveralls.io/repos/zeekay/tostr/badge.svg?branch=master&service=github
-[coverage-url]:     https://coveralls.io/github/zeekay/tostr?branch=master
-[dependencies-img]: https://david-dm.org/zeekay/tostr.svg
-[dependencies-url]: https://david-dm.org/zeekay/tostr
-[downloads-img]:    https://img.shields.io/npm/dm/tostr.svg
-[downloads-url]:    http://badge.fury.io/js/tostr
-[license-img]:      https://img.shields.io/npm/l/tostr.svg
-[license-url]:      https://github.com/zeekay/tostr/blob/master/LICENSE
-[npm-img]:          https://img.shields.io/npm/v/tostr.svg
-[npm-url]:          https://www.npmjs.com/package/tostr
+[coverage-img]:     https://coveralls.io/repos/zeekay/es-tostring/badge.svg?branch=master&service=github
+[coverage-url]:     https://coveralls.io/github/zeekay/es-tostring?branch=master
+[dependencies-img]: https://david-dm.org/zeekay/es-tostring.svg
+[dependencies-url]: https://david-dm.org/zeekay/es-tostring
+[downloads-img]:    https://img.shields.io/npm/dm/es-tostring.svg
+[downloads-url]:    http://badge.fury.io/js/es-tostring
+[license-img]:      https://img.shields.io/npm/l/es-tostring.svg
+[license-url]:      https://github.com/zeekay/es-tostring/blob/master/LICENSE
+[npm-img]:          https://img.shields.io/npm/v/es-tostring.svg
+[npm-url]:          https://www.npmjs.com/package/es-tostring

@@ -1,9 +1,9 @@
 {
-  "name": "tostr",
+  "name": "es-tostring",
   "version": "0.1.0",
   "description": "Shorthand for Object.prototype.toString.call(obj)",
-  "homepage": "http://github.com/zeekay/tostr",
-  "bugs": "http://github.com/zeekay/tostr/issues",
+  "homepage": "http://github.com/zeekay/es-tostring",
+  "bugs": "http://github.com/zeekay/es-tostring/issues",
   "keywords": [
     "Object.prototype",
     "Object.prototype.toString",
@@ -21,6 +21,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/zeekay/tostr"
+    "url": "http://github.com/zeekay/es-tostring"
   }
 }
