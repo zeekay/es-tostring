@@ -1,5 +1,7 @@
 # es-tostring
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeekay/es-tostring.svg)](https://greenkeeper.io/)
+
 [![npm][npm-img]][npm-url]
 [![downloads][downloads-img]][downloads-url]
 [![license][license-img]][license-url]
