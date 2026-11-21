@@ -1,5 +1,7 @@
 # es-tostring
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/es-tostring&ref=master&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/es-tostring&ref=master&action=edit)
+
 [![npm][npm-img]][npm-url]
 [![downloads][downloads-img]][downloads-url]
 [![license][license-img]][license-url]
